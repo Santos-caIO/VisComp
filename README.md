@@ -16,11 +16,8 @@ Edição básica - 7, 8, 9, 10
 Filtros - 11, 12, 13, 14, 15
 
 Avançado - Face detection - 16, 17
-
          - Subtraction for movement detection - 18
-         
          - Tictactoe - 21, 23
-         
          - Shape detection - 22
          
 Exemplificando Matplotlib - 19
