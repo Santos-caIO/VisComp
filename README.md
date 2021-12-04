@@ -19,6 +19,7 @@ Avançado:
          - Face detection - 16, 17  
          - Subtraction for movement detection - 18  
          - Tictactoe - 21, 23  
-         - Shape detection - 22  
+         - Shape detection - 22
+         - Morphological transformations - 24
          
 Exemplificando Matplotlib - 19
